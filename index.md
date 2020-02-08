@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome Buddhu
 
-You can use the [editor on GitHub](https://github.com/arun-odedara/Buddhus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arun-odedara/Buddhus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://lh3.googleusercontent.com/Vk8pO8R7Tof6SCOiDuLfFHzOoV91La9CyFCEnsvCVcfS1L1Ypp9YO1nTMzJRR1iIZRPvr0N0yH3K84iY1lAAdzi24kdSmnY_jWiMUoscCyNMG1w2mm_bj5zEk4HVAS7bhcosfCYsVMEOlyzvAh8d-s0C1TSSsGDg8oB4iDW03JmWsKgMO_lbbD8rzsiRX0_3KtYMPH4cE8YMB0LfRt3kpr8zifrD2Em-dQer4lKBejRNsS-SVlMYZFWKHh3TTlpujvvpfNrR7scarYqVpBJxzwEZd_TAzQc_J-2CCLesuJEKZA19h2fU0kLKlvKV5jcE74PwYzhyJVIRw7_ibgeBYSyU4snoqY5BZupAAqdruEK82NhxH8rNQsv_0FVEpXHvenm0uxjUx6rj-BSQxTYODRP_MNkBv8LVbMgLmiRoUbTnfp3YV2FLFZhGNecw-Kh9_x5L_2C8_ko5BVpPJ7L21irgaudcybNznWpNu_mxLL0fZpEni5-3wTLgn_soIWBskG9TN015juCDVldW3H7Gf2_OnpOAtN3gAlDHAfYxHf0OIB4czrqfElsRuZ_HYlxNloVwVf5IR8iOWyanB9wyOWoT1CRXke9XxweAwfcD-JHwJzEa41P3lVaP_z8EQjP6JcGm4oyec2I1XkEzBCzV1J5gwS6R2lDRX0Gu0WdVzv4hj3HefkRrByJL=w1204-h903-no)
